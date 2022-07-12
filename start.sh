@@ -9,7 +9,7 @@ BINARY_DIR="."
 LIBS_DIR="./libs"
 NUM_PLAYERS=11
 
-team="Miracle3d"
+team="Miracle3D_1"
 host="localhost"
 port=3100
 paramsfile=paramfiles/defaultParams.txt
